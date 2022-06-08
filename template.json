@@ -114,27 +114,27 @@
       },
       "scores": {
         "str": {
-          "value": 9,
+          "value": 0,
           "bonus": 0
         },
         "int": {
-          "value": 9,
+          "value": 0,
           "bonus": 0
         },
         "wis": {
-          "value": 9,
+          "value": 0,
           "bonus": 0
         },
         "dex": {
-          "value": 9,
+          "value": 0,
           "bonus": 0
         },
         "con": {
-          "value": 9,
+          "value": 0,
           "bonus": 0
         },
         "cha": {
-          "value": 9,
+          "value": 0,
           "bonus": 0
         }
       },
