@@ -18,231 +18,231 @@
         "name": "abilities-cleric",
         "label": "Abilities: Cleric",
         "system": "classicdnd",
-        "path": "packs/abilities-cleric.db",
+        "path": "./packs/abilities-cleric.db",
         "entity": "Item"
       },
       {
         "name": "abilities-dwarf",
         "label": "Abilities: Dwarf",
         "system": "classicdnd",
-        "path": "packs/abilities-dwarf.db",
+        "path": "./packs/abilities-dwarf.db",
         "entity": "Item"
       },
       {
         "name": "abilities-elf",
         "label": "Abilities: Elf",
         "system": "classicdnd",
-        "path": "packs/abilities-elf.db",
+        "path": "./packs/abilities-elf.db",
         "entity": "Item"
       },
       {
         "name": "abilities-fighter",
         "label": "Abilities: Fighter",
         "system": "classicdnd",
-        "path": "packs/abilities-fighter.db",
+        "path": "./packs/abilities-fighter.db",
         "entity": "Item"
       },
       {
         "name": "abilities-halfling",
         "label": "Abilities: Halfling",
         "system": "classicdnd",
-        "path": "packs/abilities-halfling.db",
+        "path": "./packs/abilities-halfling.db",
         "entity": "Item"
       },
       {
         "name": "abilities-magic-user",
         "label": "Abilities: Magic-User",
-        "package": "ose-content",
-        "path": "packs/abilities-magic-user.db",
+        "system": "classicdnd",
+        "path": "./packs/abilities-magic-user.db",
         "entity": "Item"
       },
       {
         "name": "abilities-thief",
         "label": "Abilities: Thief",
         "system": "classicdnd",
-        "path": "packs/abilities-thief.db",
+        "path": "./packs/abilities-thief.db",
         "entity": "Item"
       },
       {
         "name": "equipment-adventuring-gear",
         "label": "Equipment: Adventuring Gear",
         "system": "classicdnd",
-        "path": "packs/equipment-adventuring-gear.db",
+        "path": "./packs/equipment-adventuring-gear.db",
         "entity": "Item"
       },
       {
         "name": "equipment-ammunition",
         "label": "Equipment: Ammunition",
-        "package": "ose-content",
-        "path": "packs/equipment-ammunition.db",
+        "system": "classicdnd",
+        "path": "./packs/equipment-ammunition.db",
         "entity": "Item"
       },
       {
         "name": "equipment-armour",
         "label": "Equipment: Armour",
         "system": "classicdnd",
-        "path": "packs/equipment-armour.db",
+        "path": "./packs/equipment-armour.db",
         "entity": "Item"
       },
       {
         "name": "equipment-coins",
         "label": "Equipment: Coins",
         "system": "classicdnd",
-        "path": "packs/equipment-coins.db",
+        "path": "./packs/equipment-coins.db",
         "entity": "Item"
       },
       {
         "name": "equipment-weapons",
         "label": "Equipment: Weapons",
         "system": "classicdnd",
-        "path": "packs/equipment-weapons.db",
+        "path": "./packs/equipment-weapons.db",
         "entity": "Item"
       },
       {
         "name": "monsters",
         "label": "Monsters",
         "system": "classicdnd",
-        "path": "packs/monsters.db",
+        "path": "./packs/monsters.db",
         "entity": "Actor"
       },
       {
         "name": "spells",
         "label": "Spells",
         "system": "classicdnd",
-        "path": "packs/spells.db",
+        "path": "./packs/spells.db",
         "entity": "Item"
       },
       {
         "name": "srd-0-main-page",
         "label": "SRD 0: Main Page",
         "system": "classicdnd",
-        "path": "packs/srd-0-main-page.db",
+        "path": "./packs/srd-0-main-page.db",
         "entity": "JournalEntry"
       },
       {
         "name": "srd-1-characters",
         "label": "SRD 1: Characters",
         "system": "classicdnd",
-        "path": "packs/srd-1-characters.db",
+        "path": "./packs/srd-1-characters.db",
         "entity": "JournalEntry"
       },
       {
         "name": "srd-2-classes",
         "label": "SRD 2: Classes",
         "system": "classicdnd",
-        "path": "packs/srd-2-classes.db",
+        "path": "./packs/srd-2-classes.db",
         "entity": "JournalEntry"
       },
       {
         "name": "srd-3-equipment-and-services",
         "label": "SRD 3: Equipment & Services",
         "system": "classicdnd",
-        "path": "packs/srd-3-equipment-and-services.db",
+        "path": "./packs/srd-3-equipment-and-services.db",
         "entity": "JournalEntry"
       },
       {
         "name": "srd-4-magic",
         "label": "SRD 4: Magic",
         "system": "classicdnd",
-        "path": "packs/srd-4-magic.db",
+        "path": "./packs/srd-4-magic.db",
         "entity": "JournalEntry"
       },
       {
         "name": "srd-5-playing-the-game",
         "label": "SRD 5: Playing the Game",
         "system": "classicdnd",
-        "path": "packs/srd-5-playing-the-game.db",
+        "path": "./packs/srd-5-playing-the-game.db",
         "entity": "JournalEntry"
       },
       {
         "name": "srd-6-monsters",
         "label": "SRD 6: Monsters",
-        "package": "ose-content",
-        "path": "packs/srd-6-monsters.db",
+        "system": "classicdnd",
+        "path": "./packs/srd-6-monsters.db",
         "entity": "JournalEntry"
       },
       {
         "name": "srd-7-running-adventures",
         "label": "SRD 7: Running Adventures",
         "system": "classicdnd",
-        "path": "packs/srd-7-running-adventures.db",
+        "path": "./packs/srd-7-running-adventures.db",
         "entity": "JournalEntry"
       },
       {
         "name": "srd-8-treasures",
         "label": "SRD 8: Treasures",
         "system": "classicdnd",
-        "path": "packs/srd-8-treasures.db",
+        "path": "./packs/srd-8-treasures.db",
         "entity": "JournalEntry"
       },
       {
         "name": "tables-encounters",
         "label": "Tables: Encounters",
         "system": "classicdnd",
-        "path": "packs/tables-encounters.db",
+        "path": "./packs/tables-encounters.db",
         "entity": "RollTable"
       },
       {
         "name": "tables-items",
         "label": "Tables: Items",
         "system": "classicdnd",
-        "path": "packs/tables-items.db",
+        "path": "./packs/tables-items.db",
         "entity": "RollTable"
       },
       {
         "name": "treasures",
         "label": "Treasure Tables",
         "system": "classicdnd",
-        "path": "packs/treasures.db",
+        "path": "./packs/treasures.db",
         "entity": "RollTable"
       },
       {
         "name": "treasures-armour-shields",
         "label": "Treasures: Armour and Shields",
         "system": "classicdnd",
-        "path": "packs/treasures-armour-shields.db",
+        "path": "./packs/treasures-armour-shields.db",
         "entity": "Item"
       },
       {
         "name": "treasures-miscellaneous-items",
         "label": "Treasures: Miscellaneous Items",
         "system": "classicdnd",
-        "path": "packs/treasures-miscellaneous-items.db",
+        "path": "./packs/treasures-miscellaneous-items.db",
         "entity": "Item"
       },
       {
         "name": "treasures-potions",
         "label": "Treasures: Potions",
         "system": "classicdnd",
-        "path": "packs/treasures-potions.db",
+        "path": "./packs/treasures-potions.db",
         "entity": "Item"
       },
       {
         "name": "treasures-rings",
         "label": "Treasures: Rings",
         "system": "classicdnd",
-        "path": "packs/treasures-rings.db",
+        "path": "./packs/treasures-rings.db",
         "entity": "Item"
       },
       {
         "name": "treasures-rods-staffs-wands",
         "label": "Treasures: Rods, Staffs, Wands",
         "system": "classicdnd",
-        "path": "packs/treasures-rods-staffs-wands.db",
+        "path": "./packs/treasures-rods-staffs-wands.db",
         "entity": "Item"
       },
       {
         "name": "treasures-swords",
         "label": "Treasures: Swords",
-        "package": "ose-content",
-        "path": "packs/treasures-swords.db",
+        "system": "classicdnd",
+        "path": "./packs/treasures-swords.db",
         "entity": "Item"
       },
       {
         "name": "treasures-weapons",
         "label": "Treasures: Weapons",
         "system": "classicdnd",
-        "path": "packs/treasures-weapons.db",
+        "path": "./packs/treasures-weapons.db",
         "entity": "Item"
       }
     ],
