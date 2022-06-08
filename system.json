@@ -1,0 +1,291 @@
+{
+    "name": "classicdnd",
+    "title": "DnD Classic Bx-Edition",
+    "description": "The DnD Classic Bx-Edition system for FoundryVTT!",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9",
+    "templateVersion": 2,
+    "author": "Philipp Hoffmann",
+    "esmodules": [
+        "dist/module/ose.js"
+    ],
+    "styles": [
+        "dist/ose.css"
+    ],
+    "packs": [
+      {
+        "name": "abilities-cleric",
+        "label": "Abilities: Cleric",
+        "package": "ose-content",
+        "path": "packs/abilities-cleric.db",
+        "entity": "Item"
+      },
+      {
+        "name": "abilities-dwarf",
+        "label": "Abilities: Dwarf",
+        "package": "ose-content",
+        "path": "packs/abilities-dwarf.db",
+        "entity": "Item"
+      },
+      {
+        "name": "abilities-elf",
+        "label": "Abilities: Elf",
+        "package": "ose-content",
+        "path": "packs/abilities-elf.db",
+        "entity": "Item"
+      },
+      {
+        "name": "abilities-fighter",
+        "label": "Abilities: Fighter",
+        "package": "ose-content",
+        "path": "packs/abilities-fighter.db",
+        "entity": "Item"
+      },
+      {
+        "name": "abilities-halfling",
+        "label": "Abilities: Halfling",
+        "package": "ose-content",
+        "path": "packs/abilities-halfling.db",
+        "entity": "Item"
+      },
+      {
+        "name": "abilities-magic-user",
+        "label": "Abilities: Magic-User",
+        "package": "ose-content",
+        "path": "packs/abilities-magic-user.db",
+        "entity": "Item"
+      },
+      {
+        "name": "abilities-thief",
+        "label": "Abilities: Thief",
+        "package": "ose-content",
+        "path": "packs/abilities-thief.db",
+        "entity": "Item"
+      },
+      {
+        "name": "equipment-adventuring-gear",
+        "label": "Equipment: Adventuring Gear",
+        "package": "ose-content",
+        "path": "packs/equipment-adventuring-gear.db",
+        "entity": "Item"
+      },
+      {
+        "name": "equipment-ammunition",
+        "label": "Equipment: Ammunition",
+        "package": "ose-content",
+        "path": "packs/equipment-ammunition.db",
+        "entity": "Item"
+      },
+      {
+        "name": "equipment-armour",
+        "label": "Equipment: Armour",
+        "package": "ose-content",
+        "path": "packs/equipment-armour.db",
+        "entity": "Item"
+      },
+      {
+        "name": "equipment-coins",
+        "label": "Equipment: Coins",
+        "package": "ose-content",
+        "path": "packs/equipment-coins.db",
+        "entity": "Item"
+      },
+      {
+        "name": "equipment-weapons",
+        "label": "Equipment: Weapons",
+        "package": "ose-content",
+        "path": "packs/equipment-weapons.db",
+        "entity": "Item"
+      },
+      {
+        "name": "monsters",
+        "label": "Monsters",
+        "package": "ose-content",
+        "path": "packs/monsters.db",
+        "entity": "Actor"
+      },
+      {
+        "name": "spells",
+        "label": "Spells",
+        "package": "ose-content",
+        "path": "packs/spells.db",
+        "entity": "Item"
+      },
+      {
+        "name": "srd-0-main-page",
+        "label": "SRD 0: Main Page",
+        "package": "ose-content",
+        "path": "packs/srd-0-main-page.db",
+        "entity": "JournalEntry"
+      },
+      {
+        "name": "srd-1-characters",
+        "label": "SRD 1: Characters",
+        "package": "ose-content",
+        "path": "packs/srd-1-characters.db",
+        "entity": "JournalEntry"
+      },
+      {
+        "name": "srd-2-classes",
+        "label": "SRD 2: Classes",
+        "package": "ose-content",
+        "path": "packs/srd-2-classes.db",
+        "entity": "JournalEntry"
+      },
+      {
+        "name": "srd-3-equipment-and-services",
+        "label": "SRD 3: Equipment & Services",
+        "package": "ose-content",
+        "path": "packs/srd-3-equipment-and-services.db",
+        "entity": "JournalEntry"
+      },
+      {
+        "name": "srd-4-magic",
+        "label": "SRD 4: Magic",
+        "package": "ose-content",
+        "path": "packs/srd-4-magic.db",
+        "entity": "JournalEntry"
+      },
+      {
+        "name": "srd-5-playing-the-game",
+        "label": "SRD 5: Playing the Game",
+        "package": "ose-content",
+        "path": "packs/srd-5-playing-the-game.db",
+        "entity": "JournalEntry"
+      },
+      {
+        "name": "srd-6-monsters",
+        "label": "SRD 6: Monsters",
+        "package": "ose-content",
+        "path": "packs/srd-6-monsters.db",
+        "entity": "JournalEntry"
+      },
+      {
+        "name": "srd-7-running-adventures",
+        "label": "SRD 7: Running Adventures",
+        "package": "ose-content",
+        "path": "packs/srd-7-running-adventures.db",
+        "entity": "JournalEntry"
+      },
+      {
+        "name": "srd-8-treasures",
+        "label": "SRD 8: Treasures",
+        "package": "ose-content",
+        "path": "packs/srd-8-treasures.db",
+        "entity": "JournalEntry"
+      },
+      {
+        "name": "tables-encounters",
+        "label": "Tables: Encounters",
+        "package": "ose-content",
+        "path": "packs/tables-encounters.db",
+        "entity": "RollTable"
+      },
+      {
+        "name": "tables-items",
+        "label": "Tables: Items",
+        "package": "ose-content",
+        "path": "packs/tables-items.db",
+        "entity": "RollTable"
+      },
+      {
+        "name": "treasures",
+        "label": "Treasure Tables",
+        "package": "ose-content",
+        "path": "packs/treasures.db",
+        "entity": "RollTable"
+      },
+      {
+        "name": "treasures-armour-shields",
+        "label": "Treasures: Armour and Shields",
+        "package": "ose-content",
+        "path": "packs/treasures-armour-shields.db",
+        "entity": "Item"
+      },
+      {
+        "name": "treasures-miscellaneous-items",
+        "label": "Treasures: Miscellaneous Items",
+        "package": "ose-content",
+        "path": "packs/treasures-miscellaneous-items.db",
+        "entity": "Item"
+      },
+      {
+        "name": "treasures-potions",
+        "label": "Treasures: Potions",
+        "package": "ose-content",
+        "path": "packs/treasures-potions.db",
+        "entity": "Item"
+      },
+      {
+        "name": "treasures-rings",
+        "label": "Treasures: Rings",
+        "package": "ose-content",
+        "path": "packs/treasures-rings.db",
+        "entity": "Item"
+      },
+      {
+        "name": "treasures-rods-staffs-wands",
+        "label": "Treasures: Rods, Staffs, Wands",
+        "package": "ose-content",
+        "path": "packs/treasures-rods-staffs-wands.db",
+        "entity": "Item"
+      },
+      {
+        "name": "treasures-swords",
+        "label": "Treasures: Swords",
+        "package": "ose-content",
+        "path": "packs/treasures-swords.db",
+        "entity": "Item"
+      },
+      {
+        "name": "treasures-weapons",
+        "label": "Treasures: Weapons",
+        "package": "ose-content",
+        "path": "packs/treasures-weapons.db",
+        "entity": "Item"
+      }
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "dist/lang/en.json"
+        },
+        {
+            "lang": "it",
+            "name": "Italian",
+            "path": "dist/lang/it.json"
+        },
+        {
+            "lang": "fr",
+            "name": "French (FRANCE)",
+            "path": "dist/lang/fr.json"
+        },
+        {
+            "lang": "pt-BR",
+            "name": "Português (Brasil)",
+            "path": "dist/lang/pt-BR.json"
+        },
+        {
+            "lang": "es",
+            "name": "Spanish",
+            "path": "dist/lang/es.json"
+        },
+        {
+            "lang": "de",
+            "name": "German (Germany)",
+            "path": "dist/lang/de.json"
+        }
+    ],
+    "gridDistance": 10,
+    "gridUnits": "Ellen",
+    "primaryTokenAttribute": "health",
+    "url": "",
+    "manifest": "",
+    "download": "",
+    "bugs": "",
+    "flags": {
+        "allowBugReporter": true
+    }
+}
